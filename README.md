@@ -1,1 +1,1 @@
-# gustoms-oython-text-based-adventure-game
+# gustoms-python-text-based-adventure-game
