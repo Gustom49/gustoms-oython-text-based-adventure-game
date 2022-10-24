@@ -1,8 +1,4 @@
-
- #dictionary
-
-from re import T
-
+# dictionary
 
 rooms = {'start': 
          {'name': 'the front porch',
