@@ -152,7 +152,3 @@ countdown(int(t))
     # get timer to say to the code to stop game
     # when th tolet is reached the gamenees to stop
    # add more room
-
-   
-
-   
